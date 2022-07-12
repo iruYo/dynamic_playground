@@ -3,10 +3,10 @@ pom.xml
 pom.xml.asc
 *.jar
 *.class
-/lib/
-/classes/
-/target/
-/checkouts/
+**/lib/
+**/classes/
+**/target/
+**/checkouts/
 .nrepl-port
 .cpcache/
 .calva
