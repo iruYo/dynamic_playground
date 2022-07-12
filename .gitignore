@@ -1,0 +1,20 @@
+### Clojure ###
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/lib/
+/classes/
+/target/
+/checkouts/
+.nrepl-port
+.cpcache/
+.calva
+.lsp
+.clj-kondo
+
+profiles.clj
+/.lein-*
+/.prepl-port
+.hgignore
+.hg/
